@@ -14,7 +14,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta name="description" content="Description" />
         <meta name="keywords" content="Keywords" />
-        <title>Laconic Test PWA 8</title>
+        <title>Laconic Test PWA 9</title>
 
         <link rel="manifest" href="/manifest.json" />
         <link
